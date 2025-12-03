@@ -8,7 +8,7 @@ function convertToRoman(num) {
       5:['V', 5], 
       6:['I', 1]
     };
-     let val = Number(num);
+    
 	  let val = Number(num);
   let rst = "";
 
